@@ -14,3 +14,5 @@ dotnet new install Microsoft.VisualStudio.Sdk.Templates
 
 # Create new empty VSIX project
 dotnet new vsix
+
+ls -la
